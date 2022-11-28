@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">PaymodTest</string>
+    <string name="App">Приложения</string>
+    <string name="Description">Описание</string>
+    <string name="Type">Тип</string>
+    <string name="Version">Версия</string>
+    <string name="Ok">Ок</string>
+    <string name="Actual">Актуальный</string>
+    <string name="Install">Установить</string>
+    <string name="Update">Обновить</string>
+    <string name="Download">Скачать</string>
+    <string name="Downloading">Скачивается</string>
+    <string name="Delete">Удалить</string>
+    <string name="Need_to_get_storage_permission">Вам нужно дать разрешение на запись и чтение с хранилища</string>
+    <string name="Monitoring_app_update">Мониторинг обновлений приложений</string>
+    <string name="default_notification_channel_id">default_notification_channel_id</string>
+    <string name="updates">Обновления</string>
+    <string name="channel_name">channel_name</string>
+    <string name="channel_description">channel_description</string>
+</resources>
